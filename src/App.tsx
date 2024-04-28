@@ -13,7 +13,7 @@ function App() {
     increaseQuantity,
     clearCart,
     isEmpty,
-    cartTotal
+    cartTotal,
   } = useCart();
 
   return (
